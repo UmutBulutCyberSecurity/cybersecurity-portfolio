@@ -29,7 +29,7 @@ Everything lives in my [**Cybersecurity Portfolio**](https://github.com/[your-us
 `OSSEC HIDS` · `Nmap` · `Metasploit` · `Kali Linux` · `Ubuntu Server` · `Shodan` · `Log analysis` · `SIEM concepts` · `MS17-010` · `SPF/DKIM/DMARC`
 
 ### 📫 Reach me
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/[your-profile])
+- LinkedIn: [www.linkedin.com/in/umut-bulut-9b8431371]
 - Email: [j4mesbulut@gmai.com]
 
 ---
